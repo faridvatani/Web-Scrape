@@ -1,6 +1,6 @@
 # Web scraping
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser.<br>
-([Read More on Wikipedia](https://pages.github.com/))
+([Read More on Wikipedia](https://en.wikipedia.org/wiki/Web_scraping))
 
 Digikala is the biggest e-commerce startup in Iran. This project scraping Discount DigiKala Links.
 
